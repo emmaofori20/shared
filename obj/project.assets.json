@@ -2081,19 +2081,26 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\UITS-KNUST\\.nuget\\packages\\": {}
+    "C:\\Users\\Emmanuel Ofori\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
+    "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\UITS-KNUST\\Desktop\\New folder\\shared\\shared.csproj",
+      "projectUniqueName": "C:\\Users\\Emmanuel Ofori\\source\\repos\\shared\\shared.csproj",
       "projectName": "shared",
-      "projectPath": "C:\\Users\\UITS-KNUST\\Desktop\\New folder\\shared\\shared.csproj",
-      "packagesPath": "C:\\Users\\UITS-KNUST\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\UITS-KNUST\\Desktop\\New folder\\shared\\obj\\",
+      "projectPath": "C:\\Users\\Emmanuel Ofori\\source\\repos\\shared\\shared.csproj",
+      "packagesPath": "C:\\Users\\Emmanuel Ofori\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Emmanuel Ofori\\source\\repos\\shared\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages",
+        "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+      ],
       "configFilePaths": [
-        "C:\\Users\\UITS-KNUST\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Emmanuel Ofori\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
